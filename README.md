@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solord8
 - 👀 I’m interested in quantitative research in ecology with a focus in avian demography and movement ecology.
-- 🌱 I’m currently learning Python for app development and data analysis
+- 🌱 I’m currently learning Python for app development and RStudio for data analysis
 - 💞️ I’m looking to collaborate on capstone-sized projects that fill ecological research gaps using underutilized datasets.
 - 😄 Pronouns: He/Him
 
